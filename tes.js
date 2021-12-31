@@ -8,7 +8,7 @@
 *࿊⃟〽️* ${prefix}bocil
 *࿊⃟〽️* ${prefix}ghea
 
-//MARKER
+//MARKER.
 *࿊⃟〽️* ${prefix}foliokanan [ _text_ ]
 *࿊⃟〽️* ${prefix}foliokiri [ _text_ ]
 *࿊⃟〽️* ${prefix}nuliskanan [ _text_ ]
