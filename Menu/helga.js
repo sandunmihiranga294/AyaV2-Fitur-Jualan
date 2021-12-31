@@ -5,7 +5,7 @@ Silahkan Pilih Untuk Menampilkan Menu Bot
 
     『 BOT INFO 』
 
-*࿊⃟〽️* Device : Poco X3 
+*࿊⃟〽️* Device : Samsung a22 
 *࿊⃟〽️* Wa Version : 2.21.11.17
 *࿊⃟〽️* OS Version : 11
 *࿊⃟〽️* MNC : 001
